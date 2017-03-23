@@ -1,0 +1,2 @@
+"/Users/alex/Documents/Appcelerator_Studio_Workspace/ctimagetexture/android/build/generated/java/ct/imagetexture/CtimagetextureBootstrap.java"
+"/Users/alex/Documents/Appcelerator_Studio_Workspace/ctimagetexture/android/src/ct/imagetexture/CtimagetextureModule.java"
